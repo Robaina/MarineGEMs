@@ -1,0 +1,101 @@
+Original	Standard	Original_Name	Fake_Exchange
+AminosugarsEX	AminosugarsEX	Fake Amino Sugars Exchange	True
+FAKEAAEX	FAKEAAEX	Fake Amino Acids Exchange	True
+FAKEABPEX	EX_pap_e	Fake A35bp Exchange	True
+FAKEacpEX	FAKEacpEX	Fake acp Exchange	True
+FAKEApoacpEX	FAKEApoacpEX	Fake Apo acp Exchange	True
+FAKEThioredoxinEX	FAKEThioredoxinEX	Fake Thioredoxin Exchange	True
+FreefattyacidsEX	FreefattyacidsEX	Fake Free fatty acids Exchange	True
+ArtificialproteinEX	ArtificialproteinEX	Fake Artificial_protein Exchange	True
+B12EX	EX_adocbl_e	Vitamin B12 Exchange	False
+BiotinEX	EX_btn_e	Biotin Exchange	False
+FADEX	FADEX	Fake FAD Exchange	True
+GlycolaldehydeEX	EX_gcald_e	Glycolaldehyde Exchange	False
+LipoylproteinEX	LipoylproteinEX	Fake Lipoylprotein Exchange	True
+MenaquinoneEX	MenaquinoneEX	Fake Menaquinone Exchange	True
+MethanolEX	EX_meoh_e	Methanol Exchange	False
+NicotinateEX	NicotinateEX	Fake Nicotinate Exchange	True
+SAdenosyl4methylthio2oxobutanoateEX	SAdenosyl4methylthio2oxobutanoateEX	Fake S-Adenosyl-4-methylthio-2-oxobutanoate Release	True
+SMethyl5thioDriboseEX	SMethyl5thioDriboseEX	Fake S_Methyl_5_thio_D_ribose Release	True
+NAcetylornithineEX	NAcetylornithineEX	Fake N_Acetylornithine Exchange	True
+THFpolyglutEX	THFpolyglutEX	Fake THF polyglutamate Exchange	True
+Thiamin_dpEX	EX_thm_e	Fake Thiamin diphosphate Exchange	True
+tRNAEX	tRNAEX	Fake tRNA Exchange	True
+GlycolateEX	EX_glyclt_e	Glycolate Exchange	False
+AmmoniaEX	EX_nh4_e	Ammonia Exchange	False
+BiomassEX	BiomassEX	Biomass Exchange	False
+CadaverineEX	EX_15dap_e	Cadaverine Exchange	False
+CadmiumEX	EX_cd2_e	Cadmium Exchange	False
+CalciumEX	EX_ca2_e	Calcium Exchange	False
+ChlorideEX	EX_cl_e	Chloride Exchange	False
+CO2EX	EX_co2_e	CO2 Exchange	False
+CobaltEX	EX_cobalt2_e	Cobalt Exchange	False
+CopperEX	EX_cu2_e	Copper Exchange	False
+COEX	EX_co_e	CO Exchange	False
+CyanateEX	EX_cynt_e	Cyanate Exchange	False
+FAKEOrthophosphateEX	EX_pi_e	FAKEOrthophosphate Exchange	True
+GlycogenEX	EX_glycogen_e	Glycogen Exchange	False
+H2OEX	EX_h2o_e	H2O Exchange	False
+H2SEX	EX_h2s_e	H2S Exchange	False
+HCO3EXcar	EX_hco3_e	HCO3 Exchangecar	False
+HEX	EX_h_e	H Exchange	False
+IronEX	EX_fe2_e	Iron Exchange	False
+LightEX	EX_photon_e	Light Exchange	False
+MagnesiumEX	EX_mg2_e	Magnesium Exchange	False
+MolybdenumEX	EX_mobd_e	Molybdenum Exchange	False
+O2EX	EX_o2_e	O2 Exchange	False
+PotassiumEX	EX_k_e	Potassium Exchange	False
+SelenateEX	EX_sel_e	Selenate Exchange	False
+SodiumEX	EX_na1_e	Sodium Exchange	False
+SpermineEX	EX_sprm_e	Spermine Exchange	False
+SulfateEX	EX_so4_e	Sulfate Exchange	False
+ThiosulfateEX	EX_tsul_e	Thiosulfate Exchange	False
+UreaEX	EX_urea_e	Urea Exchange	False
+ZincEX	EX_zn2_e	Zinc Exchange	False
+L_AlanineEX	EX_ala__L_e	L_Alanine Exchange	False
+L_ArginineEX	EX_arg__L_e	L_Arginine Exchange	False
+L_AsparagineEX	EX_asn__L_e	L_Asparagine Exchange	False
+L_AspartateEX	EX_asp__L_e	L_Aspartate Exchange	False
+L_CystineEX	EX_cys__L_e	L_Cystine Exchange	False
+L_GlutamateEX	EX_glu__L_e	L_Glutamate Exchange	False
+L_GlutamineEX	EX_gln__L_e	L_Glutamine Exchange	False
+GlycineEX	EX_gly_e	Glycine Exchange	False
+L_HistidineEX	EX_his__L_e	L_Histidine Exchange	False
+L_IsoleucineEX	EX_ile__L_e	L_Isoleucine Exchange	False
+L_LeucineEX	EX_leu__L_e	L_Leucine Exchange	False
+L_LysineEX	EX_lys__L_e	L_Lysine Exchange	False
+L_MethionineEX	EX_met__L_e	L_Methionine Exchange	False
+L_PhenylalanineEX	EX_phe__L_e	L_Phenylalanine Exchange	False
+L_ProlineEX	EX_pro__L_e	L_Proline Exchange	False
+L_SerineEX	EX_ser__L_e	L_Serine Exchange	False
+L_ThreonineEX	EX_thr__L_e	L_Threonine Exchange	False
+L_TryptophanEX	EX_trp__L_e	L_Tryptophan Exchange	False
+L_TyrosineEX	EX_tyr__L_e	L_Tyrosine Exchange	False
+L_ValineEX	EX_val__L_e	L_Valine Exchange	False
+D_GlucoseEX	EX_glc__D_e	D-Glucose Exchange	False
+PhospholipidEX	PhospholipidEX	Phospholipid Exchange	False
+LPSEX	LPSEX	Lipopolysaccharide Exchange	False
+PnEX	EX_ppt_e	Phosphonate Exchange	False
+AcetateEX	EX_ac_e	AcetateEX	False
+CitrateEX	EX_cit_e	CitrateEX	False
+FormateEX	EX_for_e	FormateEX	False
+PyruvateEX	EX_pyr_e	PyruvateEX	False
+FumarateEX	EX_fum_e	FumarateEX	False
+GlutathioneEX	EX_gthrd_e	GlutathioneEX	False
+4_Methyl_2_oxopentanoateEX	4_Methyl_2_oxopentanoateEX	4_Methyl_2_oxopentanoateEX	False
+PantothenateEX	PantothenateEX	PantothenateEX	False
+SuccinateEX	EX_succ_e	SuccinateEX	False
+ThymidineEX	EX_thymd_e	ThymidineEX	False
+XanthosineEX	EX_xtsn_e	XanthosineEX	False
+4_AminobenzoateEX	EX_4abz_e	4_AminobenzoateEX	False
+5_MethylthioadenosineEX	5_MethylthioadenosineEX	5_MethylthioadenosineEX	False
+AdenineEX	EX_ade_e	AdenineEX	False
+DethiobiotinEX	DethiobiotinEX	DethiobiotinEX	False
+GuanineEX	EX_gua_e	GuanineEX	False
+GuanosineEX	EX_gsn_e	GuanosineEX	False
+PutrescineEX	EX_ptrc_e	PutrescineEX	False
+SpermidineEX	EX_spmd_e	SpermidineEX	False
+4_HydroxybenzoateEX	EX_bz_e	4_HydroxybenzoateEX	False
+EthanolEX	EX_etoh_e	EthanolEX	False
+S_MalateEX	EX_mal__D_e	S_MalateEX	False
+H2O2EX	EX_h2o2_e	H2O2 exchange	False

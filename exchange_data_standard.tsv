@@ -1,0 +1,101 @@
+Exchange ID	Exchange Name
+AminosugarsEX	Fake Amino Sugars Exchange
+FAKEAAEX	Fake Amino Acids Exchange
+EX_pap_e	Fake A35bp Exchange
+FAKEacpEX	Fake acp Exchange
+FAKEApoacpEX	Fake Apo acp Exchange
+FAKEThioredoxinEX	Fake Thioredoxin Exchange
+FreefattyacidsEX	Fake Free fatty acids Exchange
+ArtificialproteinEX	Fake Artificial_protein Exchange
+EX_adocbl_e	Vitamin B12 Exchange
+EX_btn_e	R_EX_btn_e
+FADEX	Fake FAD Exchange
+EX_gcald_e	R_EX_gcald_e
+LipoylproteinEX	Fake Lipoylprotein Exchange
+MenaquinoneEX	Fake Menaquinone Exchange
+EX_meoh_e	R_EX_meoh_e
+NicotinateEX	Fake Nicotinate Exchange
+SAdenosyl4methylthio2oxobutanoateEX	Fake S-Adenosyl-4-methylthio-2-oxobutanoate Release
+SMethyl5thioDriboseEX	Fake S_Methyl_5_thio_D_ribose Release
+NAcetylornithineEX	Fake N_Acetylornithine Exchange
+THFpolyglutEX	Fake THF polyglutamate Exchange
+EX_thm_e	R_EX_thm_e
+tRNAEX	Fake tRNA Exchange
+EX_glyclt_e	R_EX_glyclt_e
+EX_nh4_e	R_EX_nh4_e
+BiomassEX	Biomass Exchange
+EX_15dap_e	Cadaverine Exchange
+EX_cd2_e	Cadmium Exchange
+EX_ca2_e	R_EX_ca2_e
+EX_cl_e	R_EX_cl_e
+EX_co2_e	R_EX_co2_e
+EX_cobalt2_e	R_EX_cobalt2_e
+EX_cu2_e	R_EX_cu2_e
+EX_co_e	R_EX_co_e
+EX_cynt_e	R_EX_cynt_e
+EX_pi_e	R_EX_pi_e
+EX_glycogen_e	Glycogen Exchange
+EX_h2o_e	R_EX_h2o_e
+EX_h2s_e	R_EX_h2s_e
+EX_hco3_e	R_EX_hco3_e
+EX_h_e	R_EX_h_e
+EX_fe2_e	R_EX_fe2_e
+EX_photon_e	R_EX_photon_e
+EX_mg2_e	R_EX_mg2_e
+EX_mobd_e	R_EX_mobd_e
+EX_o2_e	R_EX_o2_e
+EX_k_e	R_EX_k_e
+EX_sel_e	R_EX_sel_e
+EX_na1_e	Sodium Exchange
+EX_sprm_e	Spermine Exchange
+EX_so4_e	R_EX_so4_e
+EX_tsul_e	R_EX_tsul_e
+EX_urea_e	R_EX_urea_e
+EX_zn2_e	R_EX_zn2_e
+EX_ala__L_e	R_EX_ala__L_e
+EX_arg__L_e	R_EX_arg__L_e
+EX_asn__L_e	R_EX_asn__L_e
+EX_asp__L_e	R_EX_asp__L_e
+EX_cys__L_e	R_EX_cys__L_e
+EX_glu__L_e	R_EX_glu__L_e
+EX_gln__L_e	R_EX_gln__L_e
+EX_gly_e	R_EX_gly_e
+EX_his__L_e	R_EX_his__L_e
+EX_ile__L_e	L_Isoleucine Exchange
+EX_leu__L_e	R_EX_leu__L_e
+EX_lys__L_e	L_Lysine Exchange
+EX_met__L_e	L_Methionine Exchange
+EX_phe__L_e	L_Phenylalanine Exchange
+EX_pro__L_e	L_Proline Exchange
+EX_ser__L_e	L_Serine Exchange
+EX_thr__L_e	L_Threonine Exchange
+EX_trp__L_e	L_Tryptophan Exchange
+EX_tyr__L_e	L_Tyrosine Exchange
+EX_val__L_e	L_Valine Exchange
+EX_glc__D_e	D-Glucose Exchange
+PhospholipidEX	Phospholipid Exchange
+LPSEX	Lipopolysaccharide Exchange
+EX_ppt_e	Phosphonate Exchange
+EX_ac_e	EX_ac_e
+EX_cit_e	EX_cit_e
+EX_for_e	EX_for_e
+EX_pyr_e	EX_pyr_e
+EX_fum_e	EX_fum_e
+EX_gthrd_e	EX_gthrd_e
+4_Methyl_2_oxopentanoateEX	4_Methyl_2_oxopentanoateEX
+PantothenateEX	PantothenateEX
+EX_succ_e	EX_succ_e
+EX_thymd_e	EX_thymd_e
+EX_xtsn_e	EX_xtsn_e
+EX_4abz_e	EX_4abz_e
+5_MethylthioadenosineEX	5_MethylthioadenosineEX
+EX_ade_e	EX_ade_e
+DethiobiotinEX	DethiobiotinEX
+EX_gua_e	EX_gua_e
+EX_gsn_e	EX_gsn_e
+EX_ptrc_e	R_EX_ptrc_e
+EX_spmd_e	R_EX_spmd_e
+EX_bz_e	EX_bz_e
+EX_etoh_e	R_EX_etoh_e
+EX_mal__D_e	R_EX_mal__D_e
+EX_h2o2_e	R_EX_h2o2_e
